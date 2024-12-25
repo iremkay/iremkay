@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!🐰
 ***istanbul üniversitesi - yönetim bilişim sistemleri***
 
 *pilates, biraz kodlama biraz da ranakuş*
